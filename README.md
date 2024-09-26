@@ -1,0 +1,1 @@
+This repository contains a comprehensive analysis of data cleaning techniques applied to the Adult dataset (also known as the "Census Income" dataset). The goal of this project is to prepare the data for further analysis or machine learning tasks by addressing common data quality issues.
